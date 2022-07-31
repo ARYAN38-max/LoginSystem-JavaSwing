@@ -159,7 +159,7 @@ public class code extends JFrame implements ActionListener
 
 			{
 				JOptionPane.showMessageDialog(null,
-						"Please Fill All the Text Feld In Order To Proceed || Restarting the App",
+						"Please Fill All the Text Field In Order To Proceed || Restarting the App",
 						"UserInformation",
 						JOptionPane.INFORMATION_MESSAGE);
 				submit.setEnabled(false);
